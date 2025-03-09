@@ -1,4 +1,4 @@
-                                            Hi 👋, I'm Yasser
+                                              Hi 👋, I'm Yasser
 
   🎓 Information Technology student at JU, specializing in software development and UI/UX design, with extensive experience in artificial intelligence.
 
