@@ -1,5 +1,5 @@
 Hi there! 👋 I'm Yasser ALshareef
-  🎓 Information Technology student at JU, specializing in software development and UI/UX design, with extensive experience in artificial intelligence.
+  🎓 Fresh graduate in Information Technology, specialising in software development, UI/UX & Graphic  design.
 
 🚀 Currently learning how to build and train AI models, as well as developing web applications using ReactJS + AngularJS.
 
