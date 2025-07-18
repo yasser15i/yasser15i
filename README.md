@@ -1,7 +1,7 @@
 Hi there! 👋 I'm Yasser ALshareef
   🎓 Fresh graduate in Information Technology, specialising in software development, UI/UX & Graphic  design.
 
-🚀 Currently learning how to build and train AI models, as well as developing web applications using ReactJS + AngularJS.
+🚀 Currently learning how to build as well as developing web applications using ReactJS + AngularJS + Flask/Python.
 
 📫 You can reach me at: yasser30ds@gmail.com
 
