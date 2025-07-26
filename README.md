@@ -48,13 +48,6 @@ tools:
 
 ---
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/yasser15i/yasser15i/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 <!-- Tech Stack -->
 <h3 align="left">🧰 Tech Stack & Tools</h3>
 
