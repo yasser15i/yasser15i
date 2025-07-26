@@ -1,75 +1,90 @@
-<h2 align="left">Hi 👋! I'm Yasser Nasser Ahmed ALshareef</h2>
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Yasser Nasser Ahmed ALshareef</h1>
 
-<p align="left">
-🎓 Information Technology Graduate | 💻 Web & App Developer | 🎨 UI/UX Designer <br>
-🚀 Participated in 25+ projects and won 10+ hackathon awards globally.<br>
-🌱 Passionate about building innovative digital solutions that create real impact.<br>
-📍 Based in Saudi Arabia
+<h3 align="center">
+  💻 Web & App Developer | 🎨 UI/UX Designer | 🚀 Hackathon Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=500&lines=25%2B+Projects+Completed;10%2B+Hackathon+Awards+Worldwide;Clean+Code+%7C+User+Focused+Design;Always+Building+for+Impact!;Based+in+Saudi+Arabia+🇸🇦" alt="Typing animation" />
 </p>
 
 ---
 
-<h3 align="left" style="color:#ade6ac;">📊 Yasser ALshareef’s GitHub Stats</h3>
+<!-- About Me YAML Style -->
+```yaml
+name: Yasser ALshareef
+title: Web & App Developer | UI/UX Designer
+location: Saudi Arabia 🇸🇦
+status: Open to freelance & collaborations
+skills:
+  - Frontend: React, Next.js, Angular, Flutter
+  - Backend: Node.js, Flask, Firebase
+  - UI/UX: Figma, Adobe XD
+  - DevOps: Docker, Azure
+  - DB: Oracle, Firebase
+tools:
+  - Git, GitHub, VS Code, Xcode, Postman
+```
+```
+
+---
+
+<!-- GitHub Stats & Languages Side-by-Side -->
+<h3 align="center" style="color:#ade6ac;">📊 GitHub Stats & Most Used Languages</h3>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <!-- GitHub Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=yasser15i&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
-    alt="GitHub Streak" 
-    height="200"
-  />
-
-  <!-- Most Used Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=yasser15i&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" 
-    alt="Top Languages" 
-    height="200"
-  />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yasser15i&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasser15i&layout=compact&theme=dracula&hide_border=true" height="200" />
 </div>
 
 ---
 
+<!-- Trophies -->
+<h3 align="center" style="color:#ade6ac;">🏆 Achievements</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yasser15i&theme=onestar&no-bg=true&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://github.com/yasser15i/yasser15i/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<!-- Tech Stack -->
 <h3 align="left">🧰 Tech Stack & Tools</h3>
 
-<div align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-
-  <!-- Frameworks & Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" height="30" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="30" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="Sass" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-
-  <!-- Tools & Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="Xcode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,flutter,dart,nodejs,python,flask,firebase,oracle,sass,bootstrap,figma,docker,azure,git,github,xcode" />
+</p>
 
 ---
 
+<!-- Contact Me -->
 <h3 align="left">📬 Contact Me</h3>
 
-<div align="left">
-  <a href="mailto:yasser30ds@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://www.linkedin.com/in/yasser-alshareef/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-  <a href="https://x.com/yas15i"><img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" /></a>
-  <a href="https://www.youtube.com/@ysr15v"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
-</div>
+<p align="center">
+  <a href="mailto:yasser30ds@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/yasser-alshareef/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/yas15i">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@ysr15v">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>“Creating user-centered experiences through design & code.”</b>
+</p>
