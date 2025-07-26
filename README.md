@@ -30,11 +30,10 @@ tools:
 ---
 
 <!-- GitHub Stats & Languages Side-by-Side -->
-<h3 align="center">📊 GitHub Stats & Most Used Languages</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yasser15i&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasser15i&layout=compact&theme=dracula&hide_border=true" width="47%" />
 </p>
 
 ---
