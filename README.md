@@ -52,7 +52,7 @@ tools:
 <h3 align="left">🧰 Tech Stack & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,flutter,dart,nodejs,python,flask,firebase,oracle,sass,bootstrap,figma,docker,azure,git,github,xcode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,flutter,dart,nodejs,python,flask,firebase,sass,bootstrap,figma,docker,azure,git,github,xcode" />
 </p>
 
 ---
