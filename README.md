@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Yasser Nasser Ahmed ALshareef</h2>
+<h2 align="left">Hi 👋! I'm Yasser ALshareef</h2>
 
 <p align="left">
 🎓 Information Technology Graduate | 💻 Web & App Developer | 🎨 UI/UX Designer <br>
