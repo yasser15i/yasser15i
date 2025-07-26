@@ -44,15 +44,6 @@ tools:
 
 ---
 
-<!-- Trophies -->
-<h3 align="center">🏆 Achievements</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasser15i&theme=onestar&no-bg=true&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 <!-- Tech Stack -->
 <h3 align="left">🧰 Tech Stack & Tools</h3>
 
