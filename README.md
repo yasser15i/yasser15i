@@ -24,7 +24,7 @@ skills:
   - DevOps: Docker, Azure
   - DB: Oracle, Firebase
 tools:
-  - Git, GitHub, VS Code, Xcode, Postman
+  - Git, GitHub/Lab, VS Code, Xcode, Postman
 ```
 
 ---
