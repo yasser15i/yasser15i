@@ -1,8 +1,8 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Yasser ALshareef</h1>
+<h1 align="center">Hi 👋, I'm Yasser ALshareef 🚀</h1>
 
 <h3 align="center">
-  💻 Web Developer | 🎨 UI/UX Designer | 🚀 Hackathon Enthusiast
+  💻 Web Developer | 🎨 UI/UX Designer | 🏅 Hackathon Champion
 </h3>
 
 <p align="center">
