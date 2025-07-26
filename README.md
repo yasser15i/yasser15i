@@ -1,3 +1,4 @@
+<!-- Introduction -->
 <h2 align="left">Hi 👋! I'm Yasser Nasser Ahmed ALshareef</h2>
 
 <p align="left">
@@ -7,19 +8,22 @@
 📍 Based in Saudi Arabia
 </p>
 
-###
-
+<!-- Stats Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasser15i&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasser15i&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+  <div align="center">
+    <h3 style="color:#ade6ac;">📊 Yasser ALshareef’s GitHub Stats</h3>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=yasser15i&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </div>
+
+  <div align="center">
+    <h3 style="color:#ade6ac;">📈 Most Used Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasser15i&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
+  </div>
+
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.postimg.cc/3N9m4ndP/1.jpg" />
-
-###
-
+<!-- Tech Stack -->
 <h3 align="left">🧰 Tech Stack & Tools</h3>
 
 <div align="left">
@@ -30,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  
+
   <!-- Frameworks & Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
@@ -40,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="Sass" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  
+
   <!-- Tools & Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
@@ -52,7 +56,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle" />
 </div>
 
-###
+<!-- Social Links -->
+<h3 align="left">📬 Contact Me</h3>
 
 <div align="left">
   <a href="mailto:yasser30ds@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
@@ -60,9 +65,3 @@
   <a href="https://x.com/yas15i"><img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" /></a>
   <a href="https://www.youtube.com/@ysr15v"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://i.postimg.cc/BnhgjZdm/snake-animation.gif" alt="Snake animation" height="100" />
