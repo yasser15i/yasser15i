@@ -1,4 +1,3 @@
-<!-- Introduction -->
 <h2 align="left">Hi 👋! I'm Yasser Nasser Ahmed ALshareef</h2>
 
 <p align="left">
@@ -8,22 +7,30 @@
 📍 Based in Saudi Arabia
 </p>
 
-<!-- Stats Section -->
-<div align="center">
+---
 
-  <div align="center">
-    <h3 style="color:#ade6ac;">📊 Yasser ALshareef’s GitHub Stats</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=yasser15i&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </div>
+<h3 align="left" style="color:#ade6ac;">📊 Yasser ALshareef’s GitHub Stats</h3>
 
-  <div align="center">
-    <h3 style="color:#ade6ac;">📈 Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasser15i&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
-  </div>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- GitHub Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=yasser15i&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+    alt="GitHub Streak" 
+    height="200"
+  />
+
+  <!-- Most Used Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=yasser15i&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" 
+    alt="Top Languages" 
+    height="200"
+  />
 
 </div>
 
-<!-- Tech Stack -->
+---
+
 <h3 align="left">🧰 Tech Stack & Tools</h3>
 
 <div align="left">
@@ -56,7 +63,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle" />
 </div>
 
-<!-- Social Links -->
+---
+
 <h3 align="left">📬 Contact Me</h3>
 
 <div align="left">
