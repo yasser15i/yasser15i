@@ -21,7 +21,7 @@
 ```yaml
 name: Yasser ALshareef
 title: Web Developer | UI/UX Designer
-location: Saudi Arabia 🇸🇦
+location: Riyadh,Saudi Arabia 🇸🇦
 status: Open to freelance & collaborations
 skills:
   - Frontend: React.js, Next.js, Angular, HTML, CSS, JavaScript, Python, Flutter
