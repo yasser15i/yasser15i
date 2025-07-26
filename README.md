@@ -26,22 +26,21 @@ skills:
 tools:
   - Git, GitHub, VS Code, Xcode, Postman
 ```
-```
 
 ---
 
 <!-- GitHub Stats & Languages Side-by-Side -->
-<h3 align="center" style="color:#ade6ac;">📊 GitHub Stats & Most Used Languages</h3>
+<h3 align="center">📊 GitHub Stats & Most Used Languages</h3>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yasser15i&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasser15i&layout=compact&theme=dracula&hide_border=true" height="200" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yasser15i&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasser15i&layout=compact&theme=dracula&hide_border=true" width="47%" />
+</p>
 
 ---
 
 <!-- Trophies -->
-<h3 align="center" style="color:#ade6ac;">🏆 Achievements</h3>
+<h3 align="center">🏆 Achievements</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yasser15i&theme=onestar&no-bg=true&no-frame=true&row=1&column=6" />
