@@ -14,11 +14,11 @@
 <!-- About Me YAML Style -->
 ```yaml
 name: Yasser ALshareef
-title: Web & App Developer | UI/UX Designer
+title: Web Developer | UI/UX Designer
 location: Saudi Arabia 🇸🇦
 status: Open to freelance & collaborations
 skills:
-  - Frontend: React, Next.js, Angular, Flutter
+  - Frontend: React.js, Next.js, Angular, HTML, CSS, JavaScript, Python, Flutter
   - Backend: Node.js, Flask, Firebase
   - UI/UX: Figma, Adobe XD
   - DevOps: Docker, Azure
