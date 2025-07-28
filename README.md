@@ -35,11 +35,10 @@ tools:
 
 ---
 
-### 🔥 GitHub Stats
+### 📊 GitHub Stats
 
-<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yasser15i&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="47%" />
+  <img src="https://streak-stats.demolab.com/?user=yasser15i&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="47%" />
 </p>
 
 
