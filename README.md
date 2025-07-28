@@ -38,7 +38,8 @@ tools:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yasser15i&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yasser15i&show_icons=true&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasser15i&layout=compact&theme=radical&hide_border=true" width="47%" />
 </p>
 
 
