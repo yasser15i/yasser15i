@@ -20,7 +20,7 @@
 <!-- About Me YAML Style -->
 ```yaml
 name: Yasser ALshareef
-title: Web Developer | UI/UX Designer
+title: Web & App Developer | UI/UX Designer
 location: Riyadh,Saudi Arabia 🇸🇦
 status: Open to freelance & collaborations
 skills:
